@@ -32,4 +32,3 @@ https://www.theforage.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 ## My Certificate of Completion
 ![software engineering_page-0001](https://github.com/user-attachments/assets/8a27b5f1-af0e-44dd-b1a1-e53e8b8cb480)
-)
